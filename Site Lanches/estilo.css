@@ -141,10 +141,8 @@ body {
 #menuAtual:visited {
 
     
-    text-transform: uppercase;
-
-   
-    font-weight: bold;
+    text-transform: lowercase; 
+    font-weight: lighter;
 }
 
 
@@ -389,4 +387,9 @@ body {
 
     /** Remove o underline do link **/
     text-decoration: none;
+}
+descrição{
+    text-align: left;
+    color: white;
+    background-position: 1px;
 }
