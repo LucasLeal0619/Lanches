@@ -1,0 +1,26 @@
+#descrição{
+display: flex; 
+justify-content: center;
+padding: 10px;
+background-color: #e50021; 
+color: white; 
+margin: 50px;
+}
+#titulo{
+    display: flex;
+    font-family: Candara , Helvetica, sans-serif;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+#Localização{
+display: flex;
+font-family: Candara, Helvetica, sans-serif;
+color: white;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
