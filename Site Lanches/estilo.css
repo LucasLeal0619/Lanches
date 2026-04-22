@@ -144,57 +144,26 @@ body {
     text-transform: lowercase; 
     font-weight: lighter;
 }
-
-
 #content {
-
-    
     width: 700px;
-    
-    
     background-color: white;
-
-    
     position: relative;
     left: 50%;
     margin-left: -350px;
 }
-
-
 #promotionBanner {
-
- 
     height: 200px;
-
-    
     background-image: url('images/promocao.jpg');
 }
-
-
 #promocaoH1 {
-
-    
     color: white;
-
-    
     font-size: 64px;
-    
-    
     margin: 0;
-    
-    
     margin-left: 20px;
-
-    
     position: absolute;
-
-    
     text-shadow: 2px 2px 4px #e50021;
 }
-
-
 #promocaoValor {
-
     /** Define a cor da fonte como branca **/
     color: white;
 
@@ -215,12 +184,9 @@ body {
     /** Posiciona o elemento no canto inferior direito **/
     left: 180px;
     top: 130px;
-
     /** Restringe o tamanho padrão do H **/
     width: 500px;
 }
-
-
 #tituloConteudo {
     /** Define a cor **/
     color: #e50021;
@@ -366,7 +332,7 @@ body {
     margin: 0;
 
     /** Define um tamanho de fonte para o H4 em 28px **/
-    font-size: 28px;
+    font-size: 20px;
 }
 
 /** Seçeciona os elementos h5 de um elemento com id "tel" **/
@@ -376,7 +342,7 @@ body {
     margin: 0;
 
     /** Adiciona uma pequena margem a parte superior do h5 **/
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 /** Seçeciona os elementos a de um elemento com id "tel" **/
