@@ -2,7 +2,7 @@
 body {
 
     
-    background-color: #ffe18c;
+    background-color: #ffffff;
 
     
     font-family: Candara, Helvetica, sans-serif;    
@@ -53,7 +53,7 @@ body {
     float: left;
 
     
-    color: #e50021;
+    color: #ff0026;
 
     
     line-height: 50px;
@@ -72,7 +72,7 @@ body {
     width: 100%;
 
     
-    background-color: #e50021;
+      background-color: rgb(225, 115, 41);
 }
 
 

@@ -1,18 +1,19 @@
 #descrição{
 display: flex; 
 justify-content: center;
-padding: 10px;
-background-color: #e50021; 
-color: white; 
+padding: 30px;
+background-color: #a35e1ab3; 
+color: rgb(241, 236, 236); 
 margin: 50px;
+font-size: 20px;
 
     
 }
 #titulo{
     display: flex;
     font-family: Candara , Helvetica, sans-serif;
-    color: white;
-    font-size: 15px;
+    color: rgb(225, 115, 41);
+    font-size: 20px;
     text-align: center;
     justify-content: center;
     width: 100%;
@@ -28,37 +29,39 @@ margin: 50px;
 }
 #conteudoBurguer{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 40px;
+    gap: 100px;
     flex-wrap: wrap;
-    max-width: 900px;
 }
 #X-Burger img{
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 550px;
     object-fit: cover;
     border-radius: 10px;
+    justify-content: center;
+
 }
 #Diferencial{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    font-family: Candara , Helvetica, sans-serif;
-    color: white;
-    font-size: 18px;
-    text-align: center;
+    align-items: flex-start;
+    font-display: Candara, Helvetica, sans-serif;
+    color: rgb(139, 101, 26);
+    font-size: 30px;
+    text-align: left;
     padding: 40px;
-    max-width: 450px;
+    height: 10px;
 } 
 body {
 
     
-    background-color: #ffe18c;
+    background-color: #f8f7f5;
 
     
-    font-family: Candara, Helvetica, sans-serif;    
+    font-display: Candara, Helvetica, sans-serif;    
 
     
     margin: 0;
@@ -106,7 +109,7 @@ body {
     float: left;
 
     
-    color: #e50021;
+    color: #ffffff;
 
     
     line-height: 50px;
@@ -125,7 +128,7 @@ body {
     width: 100%;
 
     
-    background-color: #e50021;
+    background-color: #db8624;
 }
 
 
@@ -183,7 +186,7 @@ body {
 .listaMenu li a:hover {
 
    
-    color: #e50021;
+    color: #6760c5;
 
     
     background-color: white;
